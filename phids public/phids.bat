@@ -2,7 +2,7 @@
 title PHIDS - Gestion HTML & Sécurité
 chcp 65001 >nul
 
-set "projetPath=C:\Users\mathe\Desktop\nouveau projet"
+set "projetPath=RENPLACER PAR VOTRE CHEMIN D'ACCES AU FICHIER"
 
 REM Vérifier si le dossier existe
 echo Vérification du dossier: %projetPath%
